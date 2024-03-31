@@ -7,7 +7,7 @@ export default function UserDetails() {
     <div >
       
     <div className='card1'>
-      <h3>UserDetails</h3>
+      <h3>UserDetails are:-</h3>
       <br/>
       <h5>UserName:-{data.uname}</h5>
       <br/>
